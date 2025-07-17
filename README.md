@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   <a href="https://discord.com/users/495672404429766667">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Discord" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord" alt="Discord Badge"/>
   </a>
 </div>
 
