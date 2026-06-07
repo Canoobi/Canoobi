@@ -12,10 +12,10 @@
 
 ## Languages and Tools:
 ### Top Skills
-[![Good Skills](https://skillicons.dev/icons?i=bash,c,cpp,discord,bots,docker,git,github,gitlab,java,ts,windows)](https://skillicons.dev)
+[![Good Skills](https://skillicons.dev/icons?i=bash,c,cpp,discord,bots,docker,git,github,githubactions,gitlab,java,ts,windows)](https://skillicons.dev)
 
 ### Other Skills:
-[![Good Skills](https://skillicons.dev/icons?i=angular,arduino,aws,azure,blender,githubactions,go,grafana,haskell,html,js,linux,maven,mysql,nginx,ps,pr,py,react)](https://skillicons.dev)
+[![Good Skills](https://skillicons.dev/icons?i=angular,arduino,aws,azure,blender,go,grafana,haskell,html,js,linux,maven,mysql,nginx,ps,pr,py,react)](https://skillicons.dev)
 
 ### IDEs:
 [![Good Skills](https://skillicons.dev/icons?i=androidstudio,clion,idea,pycharm,webstorm)](https://skillicons.dev)
